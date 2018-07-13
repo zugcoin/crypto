@@ -1,15 +1,15 @@
-﻿ZUGCoin integration/staging tree
+﻿ZUGCoin integration/staging tree<br>
 http://www.zugcoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2009-2014 Bitcoin Developers<br>
 Copyright (c) 2018 ZUGCoin Developers
 
 <br><br>
-Block targets : 1 minute
-2 billions total coins
-200 millions coins to collect in games
-200 millions coins to develop more games
-PoS Annual interest : 50%
+Block targets : 1 minute<br>
+2 billions total coins<br>
+200 millions coins to collect in games<br>
+200 millions coins to develop more games<br>
+PoS Annual interest : 50%<br>
 
 
 
@@ -25,11 +25,11 @@ Mac: https://github.com/zugcoin/crypto/files/2191452/zugcoin-Qt.zip
 
 <br><br>
 
-<b>Games</b>
+<b>Games</b><br>
 1st Game CryptoRun:
 https://play.google.com/store/apps/details?id=com.zugsoft.btcrun
 
 <br><br>
-<b>License</b>
+<b>License</b><br>
 ZUGCoin is released under the terms of the MIT license. 
 See COPYING for more information or see http://opensource.org/licenses/MIT.
