@@ -1,13 +1,19 @@
 ZUGCoin integration/staging tree
+
 http://www.zugcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
+
 Copyright (c) 2018 ZUGCoin Developers
 
 Block targets : 1 minute
+
 2 billions total coins
+
 200 millions coins to collect in games
+
 200 millions coins to develop more games
+
 PoS Annual interest : 50%
 
 Wallet
