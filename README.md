@@ -10,6 +10,7 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2018 ZUGCoin Developers
 
 
+<br><br>
 
 
 
@@ -27,7 +28,7 @@ PoS Annual interest : 50%
 
 
 
-
+<br><br>
 <b>
 
 
@@ -43,6 +44,9 @@ Linux: https://github.com/zugcoin/crypto/files/2191450/zugcoin-qt-linux.tar.gz
 
 Mac: https://github.com/zugcoin/crypto/files/2191452/zugcoin-Qt.zip
 
+<br><br>
+<b>Games</b>
+
 
 
 
@@ -55,10 +59,11 @@ https://play.google.com/store/apps/details?id=com.zugsoft.btcrun
 
 
 
+<br><br>
 
 
 
-License
 
+<b>License</b>
 ZUGCoin is released under the terms of the MIT license. 
 See COPYING for more information or see http://opensource.org/licenses/MIT.
