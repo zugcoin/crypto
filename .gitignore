@@ -1,0 +1,26 @@
+src/*.exe
+src/zugcoin
+src/zugcoind
+src/test_zugcoin
+src/build.h
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.zugcoin
+#compilation and Qt preprocessor part
+*.qm
+Makefile
+zugcoin-qt
+#resources cpp
+qrc_*.cpp
+#qt creator
+*.pro.user
+#mac specific
+.DS_Store
+build
+
+!src/leveldb/Makefile
