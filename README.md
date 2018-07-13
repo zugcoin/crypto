@@ -28,11 +28,11 @@ PoS Annual interest : 50%
 
 
 
+<b>
 
 
 
-
-Wallet
+Wallet</b>
 
 
 Windows: https://github.com/zugcoin/crypto/files/2191451/zugcoin-qt-windows.zip
