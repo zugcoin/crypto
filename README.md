@@ -1,8 +1,7 @@
-ZUGCoin integration/staging tree<br>
 http://www.zugcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers<br>
-Copyright (c) 2018 ZUGCoin Developers
+Copyright (c) 2018 Zugcoin Developers
 
 <br><br>
 Block targets : 1 minute<br>
